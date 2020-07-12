@@ -1,1 +1,1 @@
-# pure-obejct-oriented-java
+# Pure Obejct Oriented Java
